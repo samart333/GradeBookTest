@@ -1,0 +1,10 @@
+C:\Users\samart\Downloads\v3.0.0\pluralsight-projects-CSharp-GradeBookApplication-15d4f09\GradeBook\bin\Debug\netcoreapp2.0\GradeBook.deps.json
+C:\Users\samart\Downloads\v3.0.0\pluralsight-projects-CSharp-GradeBookApplication-15d4f09\GradeBook\bin\Debug\netcoreapp2.0\GradeBook.runtimeconfig.json
+C:\Users\samart\Downloads\v3.0.0\pluralsight-projects-CSharp-GradeBookApplication-15d4f09\GradeBook\bin\Debug\netcoreapp2.0\GradeBook.runtimeconfig.dev.json
+C:\Users\samart\Downloads\v3.0.0\pluralsight-projects-CSharp-GradeBookApplication-15d4f09\GradeBook\bin\Debug\netcoreapp2.0\GradeBook.dll
+C:\Users\samart\Downloads\v3.0.0\pluralsight-projects-CSharp-GradeBookApplication-15d4f09\GradeBook\bin\Debug\netcoreapp2.0\GradeBook.pdb
+C:\Users\samart\Downloads\v3.0.0\pluralsight-projects-CSharp-GradeBookApplication-15d4f09\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.csprojAssemblyReference.cache
+C:\Users\samart\Downloads\v3.0.0\pluralsight-projects-CSharp-GradeBookApplication-15d4f09\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.AssemblyInfoInputs.cache
+C:\Users\samart\Downloads\v3.0.0\pluralsight-projects-CSharp-GradeBookApplication-15d4f09\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.AssemblyInfo.cs
+C:\Users\samart\Downloads\v3.0.0\pluralsight-projects-CSharp-GradeBookApplication-15d4f09\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.dll
+C:\Users\samart\Downloads\v3.0.0\pluralsight-projects-CSharp-GradeBookApplication-15d4f09\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.pdb
